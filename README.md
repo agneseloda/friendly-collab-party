@@ -6,3 +6,5 @@ understanding the basics of GitHub
 1. To learn how to fork.
 2. To find new tricks ?
 3. The comments are going to a blackhole.
+4. *pull-requests* is confusing.
+5. ***jargons***
