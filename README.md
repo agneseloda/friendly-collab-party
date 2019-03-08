@@ -1,3 +1,3 @@
 # friendly-collab-party
 
-Testing GitHub
+understanding the basics of GitHub 
